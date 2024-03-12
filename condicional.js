@@ -1,5 +1,5 @@
 //Iniciar numero
-let numero = 0;
+let numero = 1;
 
 //Fazer a condicao: SE ou IF 
 if(numero > 0){
