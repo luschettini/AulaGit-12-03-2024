@@ -1,5 +1,5 @@
 //Iniciar numero
-let numero = 0;
+let numero = 1;
 
 //Fazer a condicao: SE ou IF 
 if(numero > 0){
@@ -10,4 +10,4 @@ if(numero > 0){
     console.log("Esse numero é negativo")
 }else{
     console.log("O numero é 0");
-} 
+}
