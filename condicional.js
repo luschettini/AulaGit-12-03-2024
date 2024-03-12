@@ -10,4 +10,4 @@ if(numero > 0){
     console.log("Esse numero é negativo")
 }else{
     console.log("O numero é 0");
-}
+} 
