@@ -1,0 +1,18 @@
+let min = 1;
+let max = Math.floor(Math.random() * 101);
+let tentativa = 0;
+
+while (min != max) {
+    max = Math.floor(Math.random(1) * 101);
+
+    if (max < min){
+    console.log("o número certo é maior que", min, "Tente novamente!")
+
+ }else{
+    console.log("o número certo é menor que", max, "Tente novamente!");
+
+ }     
+ max = Math.floor(Math.random(1) * 101)
+ tentativa++
+}
+console.log("você tentou", tentativa, "vezes");

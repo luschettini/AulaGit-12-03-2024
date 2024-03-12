@@ -1,0 +1,10 @@
+let temperatura = 30;
+let formula = temperatura * 9/5 + 32;
+
+//Exibir mensagem
+console.log("A temperatura em fahrenheit é:")
+
+//Exibir resultado
+console.log(formula);
+
+

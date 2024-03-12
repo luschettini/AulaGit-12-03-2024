@@ -1,0 +1,7 @@
+let a = 30;
+let fahrenheit = a * 9 / 5 + 32;
+
+console.log("Bom dia! A temperatura do dia é de " + a.toFixed(2) + "°C e de " + fahrenheit.toFixed(2) + "°F");
+
+
+

@@ -1,0 +1,6 @@
+//Iniciar valor de A
+let a = 5; 
+
+let dobro = a * 2;
+
+console.log(dobro);

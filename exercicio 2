@@ -1,0 +1,13 @@
+//A diferente de a
+
+//Iniciar o valor de A
+let a = 10;
+
+//Iniciar o valor de B
+let b = 17;
+
+//realiza soma
+let soma = a + b;
+
+//Exibo resultado
+console.log (soma);

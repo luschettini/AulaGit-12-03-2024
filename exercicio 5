@@ -1,0 +1,11 @@
+//Iniciar idade
+let idade = 20;
+
+//Fazer a condicao: SE ou IF 
+if(idade >= 18){
+    //exiba acesso concedido 
+    console.log("Acesso concedido");
+}else{ 
+        //Exiba acesso negado
+    console.log("Acesso negado")
+}
